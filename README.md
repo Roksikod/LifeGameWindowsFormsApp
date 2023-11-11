@@ -1,6 +1,7 @@
 # LifeGameWindowsFormsApp
 <center>Я хочу просто вставить текст по центру</center>
 <mark>текст</mark>
+_f tckb z dcnfdk. djn nfr_
 
 Game to learn WinForms
 
